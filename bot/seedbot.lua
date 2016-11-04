@@ -263,12 +263,12 @@ function create_config( )
     sudo_users = {219201071,248974584,173061880,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[》TeleDiamond Source v2
-》Creator :@mrr619
+》Creator :@AF8_1
 》git address:
-https://github.com/Mohammadrezar/TD.git
+https://github.com/KINGCYBER/GIANTS_TM.git
 
 Id Channel:
-@antispamandhack
+@GIANTS_TM
 
 ]],
     help_text_realm = [[
