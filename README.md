@@ -1,20 +1,23 @@
-# 》[TeleDiamond V2](https://telegram.me/antispamandhack)
+# 》[GIANTS_TM](https://telegram.me/GIANTS_TM)
  
 #  و به ماستاره بدین star تو بالای همین صفحه بزنید رو
-# ♡=☆
 
+#  نظرتون به ما انرژی میده تا اپدیت های بعدی یکی از قویترین سورس هارو بهتر و قویتر ارائه بدیم
 
 # برای نصب سورس کد زیر را در ترمینال وارد کنید
 
+#اگه مشکلی داشتین آموزش کاملتر توی کانال قرار گرفته که میتونید با کلیک کردن روی متن ابی پایین از اموزش کاملتر بهره ببرین
+
+# [➲JOIN GIANTS_TM CHANNEL](https://telegram.me/GIANTS_TM)
 ```
 sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/Mohammadrezar/td.git && cd td && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
-# دقت کنید که کل کد رو وارد کنید
+# دقت کنید که کل کد رو وارد کنید و منتظر بمونید تمام کد ها اجرا شه
 
 # سپس شماره خود را با پیش شماره وارد کنید
-+مثلا : 989111111111
++برای مثال : 989111111111
 
-# سپس خود و خود ربات رو تو سرور سودو کنید
+#  سپس خود و خود ربات رو تو سرور سودو کنید میتونید از ربات @USERINFOBOT کمک بگیرین
 
 # به سرور کانکت بشین و برین تو پوشه دیتا و فایل کانفیگ و ایدی عددی خود رو بزارید تو فایل کانفیگ
 
@@ -30,12 +33,12 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 
 برای اموزش دقیق تر کلیک کن
-# [آموزش سودو کردن](http://telegram.me/antispamandhack/267)
+# [آموزش سودو کردن](http://telegram.me/GIANTS_TM/3)
 
 # کسایی که سرورشون پولیه قسمت 1
 # و کسایی که سرورشون رایگانه(مثل سی 9)قسمت 2 رو انجام بدن
 
-# لطفا طبق نوع سرور خود پیش برید
+# لطفا طبق نوع سرور خود پیش برید!
 
 # 》1)
 # برای نصب اتولانچ اگه رباتتون رو یوزر اصلی یا روته قسمت (الف) و اگه رو یوزری بجز روته قسمت (ب) رو انجام بدین
@@ -43,7 +46,7 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 # الف)این کدهارو توی ترمینال بترتیب بزنید《
 
 ```
-cd td
+cd GIANTS_TM
 
 sed -i "s/root/$(whoami)/g" etc/pika.conf
 
@@ -70,7 +73,7 @@ screen ./pika
 # setuid emsuserton
 # خب حالا سیو کنیدو برین به ترمینال و این دستوراتو بزنین
 ```
-cd td
+cd GIANTS_TM
 
 sed -i "s/username/$(whoami)/g" etc/pika.conf
 
@@ -123,13 +126,13 @@ screen ./launch.sh
 # اگه در هر صورت در نصب اتولانچ با روش 1 به مشکل خوردین راه دوم رو برین
 
 
-# 》[Mohammad](http://telegram.me/mrr619) سوالی یا مشکلی بود در خدمتم
+# 》[A  F  8シ](http://telegram.me/AF8_1) سوالی یا مشکلی بود در خدمتم
 
 # توضیحات بیشتر در کانال ما
 
 # برای ورود به کانال کلیک کن
 
-# 》[عضویت](http://telegram.me/antispamandhack)
+# 》[عضویت](http://telegram.me/GIANTS_TM)
 
 #  برای دریافت راهنما برای سودو ها دستور زیر را وارد کنید
 # راهنمای سودو!
@@ -352,8 +355,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/Mohammadrezar/td.git
-cd td
+git clone https://github.com/KINGCYBER/GIANTS_TM.git
+cd GIANTS_TM
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -362,8 +365,7 @@ chmod +x launch.sh
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/Mohammadrezar/td.git && cd td && chmod +x launch.sh && ./launch.sh install && ./launch.sh
-```
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/KINGCYBER/GIANTS_TM.git && cd GIANTS_TM && chmod +x launch.sh && ./launch.sh install && ./launch.sh```
 
 * * *
 
